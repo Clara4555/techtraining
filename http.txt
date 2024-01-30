@@ -1,0 +1,19 @@
+#summary on http(hypertext transfer ptotocol)
+
+HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. Key points include:
+
+Client-Server Model:
+
+HTTP operates on a client-server model, where clients (browsers) request resources from servers.
+Request and Response Cycle:
+
+Clients send HTTP requests to servers for resources, and servers respond with the requested data.
+HTTP Methods:
+
+Common methods include GET (retrieve data), POST (submit data), PUT (update data), and DELETE (remove data).
+Status Codes:
+
+Status codes like 200 (OK), 404 (Not Found), and 500 (Internal Server Error) indicate the outcome of a request.
+Statelessness:
+
+HTTP is stateless, meaning each request is independent, without knowledge of previous requests.

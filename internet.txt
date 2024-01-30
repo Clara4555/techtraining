@@ -1,0 +1,40 @@
+#summary of the internet
+
+The internet  is a vast interconnection of computers that connects computers across the world
+-the internet is used for:
+-accessing informaton: the internet provides you access to massive source of information 
+- communuication: it enables easy and rapid communication acros  the b world throug services such as emails
+
+the internet enables you to access the informatoion from the word but where does this information come from?
+the information comes from world wide web(www)
+what is the www? the www is a system of interlinked documents maintained on various computers on the internet.
+this documents are called the webpages 
+webages contains text, graphics, vudeos and other multimedia applications
+the internet facilitates sharing of information, resources and services.key components include:
+
+Protocols:
+
+The Internet relies on protocols such as HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) for data communication.
+IP Addresses:
+
+Internet Protocol (IP) addresses uniquely identify devices on the network. IPv4 and IPv6 are the two main addressing schemes.
+Domain Name System (DNS):
+
+DNS translates human-readable domain names into IP addresses, enabling users to access websites using names instead of numeric addresses.
+Web Browsers:
+
+Browsers like Chrome, Firefox, and Safari interpret HTML, CSS, and JavaScript to render web pages.
+Security Measures:
+
+HTTPS encrypts data during transmission, enhancing security. Firewalls and antivirus software protect against cyber threats.
+Email and Communication Protocols:
+
+Email protocols like SMTP (Simple Mail Transfer Protocol) and IMAP (Internet Message Access Protocol) enable electronic mail communication. Real-time communication is facilitated by protocols like IRC (Internet Relay Chat) and XMPP (Extensible Messaging and Presence Protocol).
+Internet Security Measures:
+
+HTTPS (HTTP Secure) encrypts data during transmission, enhancing security. Firewalls, antivirus software, and secure sockets layer (SSL) contribute to internet safety.
+E-commerce and Online Services:
+
+The Internet supports e-commerce platforms for online shopping and various online services like cloud storage, streaming, and social media.
+
+to sum it up the internet is neccessary  in the world and for communications 

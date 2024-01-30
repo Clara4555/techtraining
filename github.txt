@@ -1,0 +1,19 @@
+#summary of github
+
+GitHub is a web-based platform built on Git, providing additional collaboration and project management features. Key features include:
+
+Repositories:
+
+GitHub repositories store and organize project files. They can be public or private.
+Pull Requests:
+
+Pull requests propose changes from one branch to another. They facilitate code review and discussion.
+Issues:
+
+GitHub Issues track tasks, enhancements, and bugs, providing a centralized location for collaboration.
+Actions:
+
+GitHub Actions automate workflows such as testing and deployment, improving the development process.
+Collaboration:
+
+GitHub fosters collaboration through features like code reviews, discussions, and project boards.

@@ -1,0 +1,18 @@
+#summary of git
+Git is a distributed version control system used for tracking changes in source code during software development. Key concepts include:
+
+Repositories:
+
+Git repositories store versioned project files and their history.
+Commits:
+
+Commits represent a snapshot of changes made to files. Each commit has a unique identifier.
+Branching:
+
+Branches allow parallel development, enabling the creation of new features without affecting the main codebase.
+Merging:
+
+Merging combines changes from different branches into a single branch.
+Remote Repositories:
+
+Remote repositories, often hosted on platforms like GitHub, enable collaboration among multiple developers.
